@@ -1,0 +1,17 @@
+.main-container{
+    display: flex;
+    flex-wrap: wrap;
+    height: 98vh;
+}
+
+.section{
+    flex-basis: calc(50% - 20px);
+    margin: 10px;
+}
+
+.strategies{
+    flex-basis: calc(50% - 20px);
+    margin: 10px;
+}
+
+

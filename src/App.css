@@ -1,0 +1,21 @@
+.main-screen{
+  display: flex;
+  flex-wrap: wrap;
+  height: 98vh;
+
+}
+
+.first-component{
+  flex-basis: calc(50% - 20px);
+    margin: 10px;
+}
+
+.second-component{
+  flex-basis: calc(25% - 20px);
+    margin: 10px;
+}
+
+.third-component{
+  flex-basis: calc(25% - 20px);
+    margin: 10px;
+}
